@@ -1,0 +1,4 @@
+name "dlang_sandbox"
+description "A minimal D application."
+copyright "Copyright © 2016, legokichi"
+authors "legokichi"
